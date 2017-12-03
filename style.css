@@ -102,8 +102,6 @@ margin-left: 20%;
 =========================*/
 
 
-
->>>>>>> origin/master
 *{
 	padding:0;
 	margin:0;
@@ -1119,6 +1117,14 @@ input:-webkit-autofill:focus {
 	padding-bottom: 20px;
 	line-height: 60px;
 }
+.whiteass{
+	color: #ffffff;
+}
+.frontzin{
+	z-index: 10;
+}
+
+
 .hero-area .slide-text h1 .short {
 	font-size: 30px;
 	position: relative;
@@ -1126,7 +1132,7 @@ input:-webkit-autofill:focus {
 	font-weight: 400;
 	margin-bottom:10px;
 	text-transform: capitalize;
-	color: #555;
+	color: #ffffff;
 	letter-spacing: 4px;
 	line-height: initial;
 }
@@ -1442,7 +1448,7 @@ input:-webkit-autofill:focus {
 	transition: all 0.4s ease;
 }
 .features .features-single.bgco:hover {
-	background-color: rgb(33, 78, 195);
+	background-color: #d51920;
 }
 
 
@@ -1470,7 +1476,7 @@ input:-webkit-autofill:focus {
 	transition: all 0.4s ease;
 }
 .features .features-single2.bgco:hover {
-	background-color: rgb(33, 78, 195);
+	background-color: #d51920;
 }
 
 
@@ -1497,7 +1503,7 @@ input:-webkit-autofill:focus {
 	transition: all 0.4s ease;
 }
 .features .features-single3.bgco:hover {
-	background-color: rgb(33, 78, 195);
+	background-color: #d51920;
 }
 
 
